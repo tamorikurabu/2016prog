@@ -1,0 +1,330 @@
+【課題】プログラム言語とプログラミング　1542040　小林優香
+
+
+
+問１　　ソースツリーでリポジトリを新規作成しhello.htmlとstyle.css作成し、
+　　　　インデックスにステージをして両方とも更新してコミットをする。
+　　　　もう一度インデックスにステージしコミットする。
+　　　　最後に戻したいファイルを右クリックし
+　　　　hello.htmlを元に戻す。しかしstyle.css は戻さない。
+
+問２　　ソースツリーでhello.htmlを作りリポジトリに登録をし、ウェブブラウザで更新。
+　　　　最新ではない方を更新（コミット）しリポジトリに登録（プッシュ）する。←ここで失敗する。
+　　　　ソースツリーでリポジトリからウェブブラウザで更新をした最新版を取得し
+　　　　作業を反映させる。もう一度リポジトリに登録する。←成功
+　　　　最後にウェブブラウザで確認を行う。
+
+
+問４　　コマンドプロンプトを起動し'python'と打ちこむ。
+
+問５　　GUI
+
+問６　　２**10と打つ。答えは1024になる。
+
+問７　　'5/2'の場合は小数点もでてくるが'5//2'は出てこない
+
+問８　　'あいうえお'と表示される。
+
+問９　　このプログラムを実行すると、
+　　　　グー、チョキ、パーのどれか１つが表示される
+
+問１０　ジャンケンをするプログラム
+
+問１１　メモ帳にjanken.pvを保存し、
+　　　　ジャンケンのプログラムをCドライブに
+　　　　 janken.pyというファイル名にして保存。
+　　　　そしてコマンドプロントを開きpythonにして
+　　　　janken.pyと打ち実行する。
+　　　　これで、ランダムに表示されジャンケンができるようになる。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+問１２　py.
+
+問１３　１は整数型
+　　　　abcは文字列型
+
+問１４　apple*3+orange*2 = 420
+        orangeが１２０の場合　540
+
+問１５　システム管理の際、設定ファイルの内容チェックや簡単な編集作業などができる
+
+問１６　0.30000000000000004
+
+問１７　0.3　など表示される
+
+問１８　５％２＝１　　割り算を行ったときの解の余りの数字のみ表される
+　　　　５**２＝２５　５の二乗を表す
+
+問１９　例えば、５＋２＊４だと１３になりますが
+　　　　（５＋２）＊４にすることで括弧内が優先され
+　　　　解答は２８になります。
+　　　　また除算の場合も括弧を加えることで
+　　　　乗算と同様で優先度を変えることが可能である。
+
+問２０　１＞０．４ True
+　　　　１＜０．４ False
+
+問２１　１＜＝１　True
+　　　　１＞＝１　True
+
+問２２　１＝＝１　True
+        ２！＝２　False
+
+問２３　＋＝５
+　　　　－＝１
+　　　　＊＝６
+　　　　/＝１．５
+　　　　％＝１
+　　　　＊＊＝９
+
+問２４　因数
+　　　　戻り値
+
+問２５　list=['a','b','c','d','e']
+        len(list)
+        ＝５
+　　　　list=[0,1,2]
+        len(list)
+        ＝３
+
+問２６　'abc'+'xyz'
+        ='abcxyz'
+
+問２７　'python'+'3.5'と入力
+
+問２８　range(10)
+        =range(0,10)
+        range(1,11)
+        =range(1,1)
+
+問２９　list(range(2,22))
+　　　　=[2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]
+
+問３０　function
+
+問３１　address = ’Tokyo,Japan’
+　　　　address.split(’,’)
+　　　　＝['Tokyo','Japan']
+
+問３２　address = ’Tokyo,Japan’
+　　　　address.split(’**’)
+　　　　＝['Tokyo,Japan']
+
+問３３　address.index('T')
+        =0
+        address.index('p')
+        =8
+
+問３４　昇順
+
+問３５　確認しました
+
+問３６　lower()
+
+
+＝＝＝＝＝＝　問３７～４０　オプショナル　＝＝＝＝＝＝
+
+
+問４１　３６６日後
+
+問４２　date_a.year
+        =2008
+        date_a.mouth
+        =1
+        date_a.day
+        =1
+
+問４３　７３４３日
+
+問４４　今日　火曜日
+　　　　2008,1/1　火曜日
+
+問４５　date_a
+        
+        year
+        mouth
+        day
+        
+        weekday
+
+
+＝＝＝＝＝＝　問４６～４８　オプショナル　＝＝＝＝＝＝
+
+
+
+問４９  datetimee.date(2016,6,6)
+
+問５０  datetime.date.today()
+
+問５１  7343日
+
+問５２　モジュール：チョコレート
+　　　　ホワイトチョコ型　ミルクチョコ型　ビターチョコ型
+
+問５３　list_int=[0,1,2,3]
+　　　　print(list_int)
+　　　　＝[0, 1, 2, 3]
+　　　　list_mix=[2,1.732,'test']
+　　　　print(list_mix)
+　　　　＝[2, 1.732, 'test']
+
+問５４　list_mix[2]
+        ='test'
+
+問５５　len(list_int)
+        =4
+        len(list_mix)
+        =3
+
+問５６　list_int[-1]
+        =3
+
+問５７　list_int[0]=-1
+        list_int
+        =[-1,1,2,3]
+
+問５８　list_int.insert(1,'5')
+        list_int
+        =[-1,'5',1,2,3]
+
+問５９　list_int.pop(1)
+        ='5'
+        以上の操作で５が削除され
+        list_int
+        =[-1,1,2,3]
+        になる。
+
+問６０　list_mix.remove('test')
+        list_mix
+        =[2,1.732]
+
+問６１　list2=list_int+list_mix
+        list2
+        =[-1,1,2,3,2,1.732]
+        【確認】
+        list_int
+        =[-1,1,2,3]
+        list_mix
+        =[2,1.732]
+
+問６２　list_int.extend(list_mix)
+        list_int
+        =[-1,1,2,3,2,1.732]
+
+問６３　list_f[0:4]
+        =[0,1,1,2]
+
+問６４　list_f[2:]
+        =[1,2,3,5,8,13,21,34,55]
+
+問６５　list_f[:4]
+        =[0,1,1,2]
+
+問６６　list_test.reverse()
+        list_test
+        =[10,-1,3,9,4]
+
+問６７  sorted(list_test)
+        [-1,3,4,9,10]
+
+問６８　list_test.sort()
+      　list_test
+      　=[-1,3,4,9,10]
+
+問６９　上記のsortを使った後に
+　　　　list_test.reverse()
+        list_test
+        と入力すると
+        =[10,9,4,3,-1]
+        になる。
+
+問７０　list_os.sort()
+        list_os
+        =['BeOS','linux','mac','windows']
+        =['BeOS','Mac','Windows','linux']
+
+問７２　list=[]
+        list.append("A")
+        list
+        =['A']
+
+問７３　append sort reverse
+
+問７４  list=[]
+        list.append("apple")
+        list
+        =['apple']
+
+問７５　一つだけしか削除されない
+
+問７６  country_code[1]={'America'}
+        country_code[1]
+        {'Amrica'}
+        country_code[39]={'Italia'}
+        country_code[39]
+        {'Italia'}
+        country_code[86]={'China'}
+        country_code[86]
+        {'China'}        
+
+問７７　81 in country_code
+        =True
+        39 in country_code
+        =True
+
+問７８  {1:{'America'},81:{'Japan'},39:{'Italia'},86:{'China'}}
+
+問７９  {1:{'America'},81:{'Nippon'},39:{'Italia'},86:{'China'}}  
+
+問８０  {1:{'Nippon'},'America':1,81:{'Japan'},39:{'Italia'},86:{'China'}}
+
+問８１  実行前　{1: {'Nippon'}, 'America': 1, 81: {'Nippon'}, 'Itslia': 39, 'china': 86, 39: {'Italia'}}
+　　　　実行後　{'America': 1, 81: {'Nippon'}, 'Itslia': 39, 'china': 86, 39: {'Italia'}}
+
+問８２　fruit={}
+        fruit['orange']=140
+        fruit['apple']=100
+        print(fruit)
+        ={'orange': 140, 'apple': 100}
+
+問８３  word=[]
+        word='e','n','g','l','i','s','h'
+        print(word)
+        ('e', 'n', 'g', 'l', 'i', 's', 'h')
+
+問８４  扱えませんでした
+
+問８５　a=(1,2,3,'100yen')
+　　　　a
+        (1, 2, 3, '100yen')
+        list(a)
+        [1, 2, 3, '100yen']
+
+問８６   P=set()
+         P
+         set()
+         P.add(1)
+         P.add(2)
+         P.add(3)
+         P
+         {1, 2, 3}
+         plint(P)
+         {1,2,3}
+
+問８７   "2" in P
+         True
+         "10" in P
+         False
+
+問８８   P={1,2,3}
+         list(P)
+         [1, 2, 3]
+
+問８９　Linux Unix MacOSX Windows
+
+
+
+
+
+ 
+ 
+ 
